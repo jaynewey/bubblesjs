@@ -17,5 +17,5 @@
     "webpack": "^4.0.0-beta.3",
     "webpack-cli": "^2.0.11"
   },
-  "description": ""
+  "description": "A lightweight, fun particle system written in Javascript"
 }
